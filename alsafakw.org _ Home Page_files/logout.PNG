@@ -1,0 +1,52 @@
+
+
+				<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+
+		<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame
+		Remove this if you use the .htaccess -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+		<title>Alsafakw</title>
+		<meta name="description" content="" />
+		<meta name="author" content="server1" />
+
+		<meta name="viewport" content="width=device-width; initial-scale=1.0" />
+
+		<!-- Replace favicon.ico & apple-touch-icon.png in the root of your domain and delete these references -->
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+		<style>
+		
+			@import url('https://fonts.googleapis.com/css?family=Poppins:300, 400, 400i, 500, 500i, 600, 600i, 700, 700i, 800');
+			.error-template {padding:180px 15px 0;text-align: center; font-family:'Poppins', sans-serif;}
+			.error-actions {margin-top:15px;margin-bottom:15px;}
+			.error-actions .btn-default { float:none; display:table; margin:0 auto; color: #fff; padding:10px 15px; text-decoration:none; border-radius:50px; background-color: #26b15c; border-color: #ccc; }
+			.error-actions .btn-default:hover,
+			.error-actions .btn-default:focus {background:#244ac5;}
+		</style>
+		
+	</head>
+
+	<body>
+		
+		<div class="error-template">
+                <h1>Oops!</h1>
+                <h2>
+                    404 Not Found</h2>
+                <div class="error-details">
+                    Sorry, an error has occured, Requested page not found!
+                </div>
+                <div class="error-actions">
+                    <a href="https://www.alsafakw.org/" class="btn btn-default">
+                        Take Me Home 
+                    </a>
+                </div>
+            </div>
+		
+		
+		
+	</body>
+</html>
